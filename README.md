@@ -3,7 +3,7 @@ Sou formado em **Administração de Empresas** pela **UNIPAC** e atualmente curs
 
 
 ## Sou casado, pai de menina e desenvolvedor!
-- ✍ Você pode encontrar meu portifólio aqui nos repositórios [repositories]
+- ✍ Você pode encontrar meu portifólio aqui nos repositórios
 - 🔭 Atualmente trabalho com desenvolvimento web e alguns serviços de áudio visual
 - 🌱 Estou atualmente estudando React JS
 
