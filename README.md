@@ -1,5 +1,5 @@
 ### Olá, eu sou Felipe 🖐
-Sou formado em **Administração de Empresas** pela **UNIPAC** e atualmente curso o Bootcamp da **Driven Education** em **Software Engineer**.
+Sou graduado em **Administração de Empresas** pela **UNIPAC** e atualmente curso o Bootcamp da **Driven Education** em **Software Engineer**.
 
 ## Sou casado, pai de menina e desenvolvedor!
 
