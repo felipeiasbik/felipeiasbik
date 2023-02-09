@@ -1,7 +1,7 @@
 ### Olá, eu sou Felipe 🖐
 Sou graduado em **Administração de Empresas** pela **UNIPAC** e atualmente curso o Bootcamp da **Driven Education** em **Software Engineer**.
 
-## Sou casado, pai de menina e desenvolvedor!
+## Casado, pai de menina e desenvolvedor!
 
 - 📫 **felipeiasbik@hotmail.com**
 - ✍ Você pode encontrar meu portifólio aqui nos repositórios
