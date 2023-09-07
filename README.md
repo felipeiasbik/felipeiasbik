@@ -17,7 +17,7 @@
 ## Ferramentas e Linguagens de Programação
 
 
-##### Ferramentas: 
+##### Ferramentas e outros: 
 
 <img align="left" alt="Figma" width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
@@ -25,6 +25,10 @@
 <img align="left" alt="GitHub" width="26px" src="https://www.svgrepo.com/download/35001/github.svg" />
 <img align="left" alt="NPM" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" />
 <img align="left" alt="Docker" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
+<img align="left" alt="Prisma" width="26px" src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" />
+<img align="left" alt="ts-node" width="26px" src="https://typestrong.org/ts-node/img/logo-icon.svg" />
+<img align="left" alt="JWT" width="26px" src="https://www.raycast.com/_next/image?url=https%3A%2F%2Ffiles.raycast.com%2F0qc319ft4tyefg8ai0kg65pjj4to&w=128&q=75" />
+<img align="left" alt="Axios" width="26px" src="" />
 
 <br /><br />
 
@@ -62,6 +66,14 @@
 ##### Serviços de Nuvem:
 
 <img align="left" alt="AWS" width="26px" src="https://www.svgviewer.dev/static-svgs/34378/aws.svg" />
+
+
+<br /><br />
+
+
+##### Documentação de API:
+
+<img align="left" alt="Swagger" width="26px" src="https://camo.githubusercontent.com/96e43701d83561899724a89d71187445b7b8f4fe84518a3ea5bec8f85bd207bf/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f737761676765722e737667" />
 
 
 <br /><br />
