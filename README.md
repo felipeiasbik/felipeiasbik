@@ -7,13 +7,13 @@ Sou casado, pai de uma menininha de 1 ano, graduado em **Administração de Empr
 
 ## Fale comigo:
 [<img align="left" alt="Email" width="26px"
-    src="https://static.vecteezy.com/system/resources/previews/010/151/138/non_2x/email-and-mail-icon-sign-symbol-design-free-png.png" />](mailto:felipeiasbik@hotmail.com)
-[<img align="left" alt="LinkedIn" width="26px" [felipeiasbik@hotmail.com](mailto:felipeiasbik@hotmail.com)
-    src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/felipeiasbik/) [/felipeiasbik](https://www.linkedin.com/in/felipeiasbik/)
+    src="https://static.vecteezy.com/system/resources/previews/010/151/138/non_2x/email-and-mail-icon-sign-symbol-design-free-png.png" />](mailto:felipeiasbik@hotmail.com) [felipeiasbik@hotmail.com](mailto:felipeiasbik@hotmail.com)
+[<img align="left" alt="LinkedIn" width="26px"
+    src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />] (https://www.linkedin.com/in/felipeiasbik/) [/felipeiasbik](https://www.linkedin.com/in/felipeiasbik/)
 
 ## Linguagens e Ferramentas:
 <div style="display: flex; justify-content: space-beetween;">
-  <div style="flex: flex-start">
+  <div style="flex: 1">
     <img align="left" alt="Linux" width="26px"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
     <img align="left" alt="Trello" width="26px"
@@ -49,7 +49,7 @@ Sou casado, pai de uma menininha de 1 ano, graduado em **Administração de Empr
     <img align="left" alt="AWS" width="26px"
     src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" />
   </div>
-  <div style="flex: flex-end">
+  <div style="flex: 1">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipeiasbik&show_icons=true&locale=en&layout=compact" alt="felipeiasbik" />
   </div>
 </div>
