@@ -14,8 +14,6 @@ Sou casado, pai de uma menininha de 1 ano, graduado em **Administração de Empr
 
 
 ## Linguagens e Ferramentas:
-<div style="display: flex; justify-content: space-beetween;">
-  <div style="flex: 1; background-color: #ffffff; padding: 5px; border-radius: 3px;">
     <img align="left" alt="Linux" width="26px"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
     <img align="left" alt="Trello" width="26px"
@@ -50,9 +48,7 @@ Sou casado, pai de uma menininha de 1 ano, graduado em **Administração de Empr
     src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
     <img align="left" alt="AWS" width="26px"
     src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" />
-  </div>
-  <div style="flex: 2">
+ 
       <br><br><br>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipeiasbik&show_icons=true&locale=en&layout=compact" alt="felipeiasbik" />
-  </div>
-</div>
+
