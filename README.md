@@ -13,7 +13,7 @@
 <br /><br />
 
 
-## Ferramentas e Linguagens de Programação:
+## Ferramentas e Linguagens de Programação
 
 
 ##### Ferramentas: 
@@ -28,7 +28,7 @@
 <br /><br />
 
 
-##### Linguagens de Programação
+##### Linguagens de Programação:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -38,7 +38,7 @@
 <br /><br />
 
 
-##### Frameworks
+##### Frameworks:
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
@@ -49,7 +49,7 @@
 <br /><br />
 
 
-##### Bancos de Dados
+##### Bancos de Dados:
 
 <img align="left" alt="MongoDB" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="Redis" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" />
@@ -58,7 +58,7 @@
 <br /><br />
 
 
-##### Serviços de Nuvem
+##### Serviços de Nuvem:
 
 <img align="left" alt="AWS" width="26px" src="https://www.svgviewer.dev/static-svgs/34378/aws.svg" />
 
