@@ -34,7 +34,10 @@
 <img align="left" alt="AWS" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" />
 
 <br /><br /><br />
+<details>
+<summary>Linguagens mais usadas</summary>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipeiasbik&show_icons=true&locale=en&layout=compact" alt="felipeiasbik" />
+</details>
 
 [repositorio]: https://github.com/felipeiasbik?tab=repositories
 [email]: mailto:felipeiasik@hotmail.com
