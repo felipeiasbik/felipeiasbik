@@ -60,7 +60,7 @@
 
 ##### Serviços de Nuvem
 
-<img align="left" alt="AWS" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" />
+<img align="left" alt="AWS" width="26px" src="https://www.svgviewer.dev/static-svgs/34378/aws.svg" />
 
 
 <br /><br />
