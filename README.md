@@ -28,7 +28,7 @@
 <img align="left" alt="Prisma" width="26px" src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" />
 <img align="left" alt="ts-node" width="26px" src="https://typestrong.org/ts-node/img/logo-icon.svg" />
 <img align="left" alt="JWT" width="26px" src="https://www.raycast.com/_next/image?url=https%3A%2F%2Ffiles.raycast.com%2F0qc319ft4tyefg8ai0kg65pjj4to&w=128&q=75" />
-<img align="left" alt="Axios" width="26px" src="https://avatars.githubusercontent.com/u/32372333?v=4&s=160" />
+<img align="left" alt="Axios" width="26px" src="https://user-images.githubusercontent.com/8939680/57233882-20344080-6fe5-11e9-9086-d20a955bed59.png" />
 
 <br /><br />
 
