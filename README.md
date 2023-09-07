@@ -7,9 +7,11 @@ Sou casado, pai de uma menininha de 1 ano, graduado em **Administração de Empr
 
 ## Fale comigo:
 [<img align="left" alt="Email" width="26px"
-    src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" />](mailto:felipeiasbik@hotmail.com) [felipeiasbik@hotmail.com](mailto:felipeiasbik@hotmail.com)
+    src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" />](mailto:felipeiasbik@hotmail.com)
+[felipeiasbik@hotmail.com](mailto:felipeiasbik@hotmail.com)
 [<img align="left" alt="LinkedIn" width="26px"
-    src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />] (https://www.linkedin.com/in/felipeiasbik/) [/felipeiasbik](https://www.linkedin.com/in/felipeiasbik/)
+    src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/felipeiasbik/)
+    [/felipeiasbik](https://www.linkedin.com/in/felipeiasbik/)
 
 ## Linguagens e Ferramentas:
 <div style="display: flex; justify-content: space-beetween;">
@@ -45,11 +47,12 @@ Sou casado, pai de uma menininha de 1 ano, graduado em **Administração de Empr
     <img align="left" alt="PostgreSQL" width="26px"
     src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />
     <img align="left" alt="Docker" width="26px"
-    src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" />
+    src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
     <img align="left" alt="AWS" width="26px"
     src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" />
   </div>
   <div style="flex: 2">
+      <br><br><br>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipeiasbik&show_icons=true&locale=en&layout=compact" alt="felipeiasbik" />
   </div>
 </div>
