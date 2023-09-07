@@ -13,7 +13,7 @@
 <br />
 
 ## Linguagens e Ferramentas:
-##### Ferramentas
+### Ferramentas
 <img align="left" alt="Figma" width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
@@ -21,25 +21,25 @@
 <img align="left" alt="NPM" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" />
 <img align="left" alt="Docker" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
 
-##### Linguagens de Programação
+### Linguagens de Programação
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Typescript" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" />
 
-##### Frameworks
+### Frameworks
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Express" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" />
 <img align="left" alt="Nest.js" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" />
 <img align="left" alt="Jest" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" />
 
-##### Bancos de Dados
+### Bancos de Dados
 <img align="left" alt="MongoDB" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="Redis" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />
 
-##### Serviços de Nuvem
+### Serviços de Nuvem
 <img align="left" alt="AWS" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" />
 
 <br /><br />
