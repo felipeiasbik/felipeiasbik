@@ -8,10 +8,10 @@ Sou casado, pai de uma menininha de 1 ano, graduado em **Administração de Empr
 ## Fale comigo:
 [<img align="left" alt="Email" width="26px"
     src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" />](mailto:felipeiasbik@hotmail.com)
-[felipeiasbik@hotmail.com](mailto:felipeiasbik@hotmail.com)
+
 [<img align="left" alt="LinkedIn" width="26px"
     src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/felipeiasbik/)
-    [/felipeiasbik](https://www.linkedin.com/in/felipeiasbik/)
+
 
 ## Linguagens e Ferramentas:
 <div style="display: flex; justify-content: space-beetween;">
