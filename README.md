@@ -6,15 +6,14 @@ Sou casado, pai de uma menininha de 1 ano, graduado em **Administração de Empr
 - 🌱 No momento estou estudando Docker e AWS
 
 ## Fale comigo:
-[<img align="left" alt="Email" width="26px"
-    src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" />](mailto:felipeiasbik@hotmail.com)
+[<img align="left" alt="Email" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" />](mailto:felipeiasbik@hotmail.com)
 
-[<img align="left" alt="LinkedIn" width="26px"
-    src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/felipeiasbik/)
+[<img align="left" alt="LinkedIn" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/felipeiasbik/)
 
 
 ## Linguagens e Ferramentas:
-    <img align="left" alt="Linux" width="26px"
+<div>
+<img align="left" alt="Linux" width="26px"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
     <img align="left" alt="Trello" width="26px"
     src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" />
@@ -48,7 +47,6 @@ Sou casado, pai de uma menininha de 1 ano, graduado em **Administração de Empr
     src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
     <img align="left" alt="AWS" width="26px"
     src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" />
- 
       <br><br><br>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipeiasbik&show_icons=true&locale=en&layout=compact" alt="felipeiasbik" />
-
+</div>
