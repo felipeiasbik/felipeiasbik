@@ -1,4 +1,4 @@
-### Olá, eu sou Felipe 🖐
+# Olá, eu sou Felipe 🖐
 
 ## Sou casado, pai, graduado em **Administração de Empresas** e **Desenvolvedor Web Full-Stack**.
 - ✍ Você pode encontrar meu portifólio [aqui][repositorio]
