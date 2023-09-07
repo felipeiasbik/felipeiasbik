@@ -13,7 +13,7 @@
 <br />
 
 ## Linguagens e Ferramentas:
-<div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:40px 0;">
+<div class="white">
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Figma" width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -40,3 +40,9 @@
 [repositorio]: https://github.com/felipeiasbik?tab=repositories
 [email]: mailto:felipeiasik@hotmail.com
 [linkedin]: https://www.linkedin.com/in/felipeiasbik/
+
+<style>
+    .white {
+        background-color: #ffffff;
+    }
+</style>
