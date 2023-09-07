@@ -10,7 +10,7 @@
 [<img align="left" alt="Email" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" />][email]
 [<img align="left" alt="LinkedIn" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />][linkedin]
 
-<br />
+<br /><br />
 
 
 ## Ferramentas e Linguagens de Programação:
