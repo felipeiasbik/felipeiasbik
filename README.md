@@ -8,7 +8,7 @@
 
 
 ## Fale comigo:
-[<img align="left" alt="Email" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" />][email]
+[<img align="left" alt="Email" width="26px" src="https://seeklogo.com/images/M/mail-icon-logo-28FE0635D0-seeklogo.com.png" />][email]
 [<img align="left" alt="LinkedIn" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />][linkedin]
 
 <br /><br />
