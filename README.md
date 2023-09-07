@@ -66,21 +66,17 @@
 
 <br /><br />
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| <details>
+<details>
 <summary>:zap: Linguagens mais usadas</summary>
 <br />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipeiasbik&show_icons=true&locale=en&layout=compact" alt="felipeiasbik" />
-</details> | <details>
+</details> 
+
+<details>
 <summary>:zap: Estatisticas do GitHub</summary>
 <br />
 <img align="left" alt="Felipe's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=felipeiasbik&show_icons=true&hide_border=true" />
-</details> |
-
-
-
-
+</details>
 
 
 [repositorio]: https://github.com/felipeiasbik?tab=repositories
