@@ -17,7 +17,10 @@
 ### Ferramentas e Linguagens de Programação
 
 
-##### Ferramentas: 
+##### Ferramentas:
+
+
+
 
 <div style="display: flex; justify-content: flex-start">
         <div style="display: flex; flex-direction: column; padding: 10px;">
