@@ -34,9 +34,6 @@
 <img align="left" alt="Jest" height="26px"  src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"  />
 <img align="left" alt="Prisma" height="26px" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
 <img align="left" alt="Swagger" height="26px" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"/>
-<br /><br />
-
-
 
 
 <br /><br />
