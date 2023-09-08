@@ -61,14 +61,10 @@
 <img margin-right="3px;" align="left" alt="npm" height="26px" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 </details>
 
-<br />
-<p>
-  <details>
-<summary>:zap: Linguagens mais usadas</summary>
-<br />
+<br /><br />
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipeiasbik&show_icons=true&locale=en&layout=compact&theme=dark" alt="felipeiasbik" />
-</details>
-</p>
+
 
 
 
