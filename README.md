@@ -61,7 +61,7 @@
 <img margin-right="3px;" align="left" alt="npm" height="26px" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 </details>
 
-<br />
+<br /><br />
 
 <details>
 <summary>:zap: Linguagens mais usadas</summary>
