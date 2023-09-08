@@ -2,9 +2,9 @@
 
 ### Sou casado, pai, graduado em **Administração de Empresas** e **Desenvolvedor Web Full-Stack**.
 
-- 🔭 Atualmente trabalho com desenvolvimento web Full Stack
-- ✍ Você pode encontrar meu portifólio [aqui][repositorio]
-- 🌱 No momento estou estudando Docker e AWS
+- 🔭 Atualmente trabalho com desenvolvimento web Full Stack;
+- ✍ Você pode encontrar meu portifólio [aqui][repositorio];
+- 🌱 No momento estou estudando Docker e AWS.
 
 
 #### Fale comigo:
