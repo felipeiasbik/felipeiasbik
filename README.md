@@ -53,12 +53,15 @@
 <img align="left" alt="JWT" height="26px" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
 <img align="left" alt="Axios" height="26px" src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white" />
 <img margin-right="3px;" align="left" alt="Figma" height="26px" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+
+<br /><br />
+
 <img margin-right="3px;" align="left" alt="VSCode" height="26px" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img margin-right="3px;" align="left" alt="GitHub" height="26px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 <img margin-right="3px;" align="left" alt="npm" height="26px" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 </details>
 
-<br /><br />
+<br />
 
 <details>
 <summary>:zap: Linguagens mais usadas</summary>
