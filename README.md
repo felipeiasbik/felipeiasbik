@@ -20,11 +20,11 @@
 ##### Ferramentas:
 
 
-<img margin-right="3px;" align="left" alt="Figma" width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" /><img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
-<img margin-right="3px;" align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-<img margin-right="3px;" align="left" alt="GitHub" width="26px" src="https://www.svgrepo.com/download/35001/github.svg" />
-<img margin-right="3px;" align="left" alt="npm" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" />
-<img margin-right="3px;" align="left" alt="Docker" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
+<img margin-right="3px;" align="left" alt="Figma" height="26px" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img margin-right="3px;" align="left" alt="VSCode" height="26px" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<img margin-right="3px;" align="left" alt="GitHub" height="26px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<img margin-right="3px;" align="left" alt="npm" height="26px" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+<img margin-right="3px;" align="left" alt="Docker" height="26px" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 
 
 <br /><br />
