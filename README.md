@@ -13,10 +13,8 @@
 [<img align="left" alt="LinkedIn" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />][linkedin]
 <br /><hr/>
 
-<br />
 
-
-## Ferramentas e Linguagens de Programação
+### Ferramentas e Linguagens de Programação
 
 
 ##### Ferramentas: 
