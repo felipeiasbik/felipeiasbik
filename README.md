@@ -32,8 +32,6 @@
 <img align="left" alt="Express" height="26px"  src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"  />
 <img align="left" alt="Nest.js" height="26px"  src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"  />
 <img align="left" alt="Jest" height="26px"  src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"  />
-<img align="left" alt="Prisma" height="26px" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
-<img align="left" alt="Swagger" height="26px" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"/>
 
 
 <br /><br />
@@ -49,6 +47,8 @@
 <summary>:zap: Outras ferramentas:</summary>
 <br />
 
+<img align="left" alt="Prisma" height="26px" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+<img align="left" alt="Swagger" height="26px" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"/>
 <img align="left" alt="ts-node" height="26px" src="https://img.shields.io/badge/ts--node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white" />
 <img align="left" alt="JWT" height="26px" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
 <img align="left" alt="Axios" height="26px" src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white" />
