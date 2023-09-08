@@ -1,4 +1,4 @@
-### Olá, eu sou Felipe <img align="left" alt="Oi!"  width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true"/>
+<h3> Olá, eu sou Felipe <img align="left" alt="Oi!"  width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true"/></h3>
 
 ### Sou casado, pai, graduado em **Administração de Empresas** e **Desenvolvedor Web Full-Stack**.
 
