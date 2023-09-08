@@ -71,18 +71,10 @@
 <br /><br />
 
 
-##### Serviços de Nuvem:
+##### Serviços de Nuvem e Documentação de API:
 
 <img align="left" alt="AWS" width="26px" src="https://www.svgviewer.dev/static-svgs/34378/aws.svg" />
-
-
-<br /><br />
-
-
-##### Documentação de API:
-
 <img align="left" alt="Swagger" width="26px" src="https://camo.githubusercontent.com/96e43701d83561899724a89d71187445b7b8f4fe84518a3ea5bec8f85bd207bf/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f737761676765722e737667" />
-
 
 <br /><br />
 
