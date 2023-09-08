@@ -19,14 +19,21 @@
 
 ##### Ferramentas: 
 
-<div style="display: flex">
+<div style="display: flex; justify-content: space-between">
   <div style="display: flex; flex-direction: column;">
-    <div><img align="left" alt="Figma" width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" /></div>
-    <div>Figma</div>
+    <div>
+      <img align="left" alt="Figma" width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />      </div>
+    <div>
+      Figma
+    </div>
   </div>
   <div style="display: flex; flex-direction: column;">
-    <div><img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" /></div>
-    <div>VSCode</div>
+    <div>
+      <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
+    </div>
+    <div>
+      VSCode
+    </div>
   </div>
 </div>
 
