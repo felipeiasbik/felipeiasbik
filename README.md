@@ -15,10 +15,7 @@
 
 
 ### Ferramentas e Linguagens de Programação
-<img margin-right="3px;" align="left" alt="Figma" height="26px" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img margin-right="3px;" align="left" alt="VSCode" height="26px" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-<img margin-right="3px;" align="left" alt="GitHub" height="26px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-<img margin-right="3px;" align="left" alt="npm" height="26px" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+
 <img margin-right="3px;" align="left" alt="Docker" height="26px" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 
 
@@ -43,9 +40,6 @@
 
 
 <img align="left" alt="Prisma" height="26px" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
-<img align="left" alt="ts-node" height="26px" src="https://img.shields.io/badge/ts--node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white" />
-<img align="left" alt="JWT" height="26px" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
-<img align="left" alt="Axios" height="26px" src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white" />
 
 <br /><br />
 
@@ -58,6 +52,22 @@
 
 <img align="left" alt="AWS" height="26px" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img align="left" alt="Swagger" height="26px" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"/>
+
+<br /><br />
+
+
+<details>
+<summary>:zap: Outras ferramentas:</summary>
+<br />
+
+<img align="left" alt="ts-node" height="26px" src="https://img.shields.io/badge/ts--node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white" />
+<img align="left" alt="JWT" height="26px" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
+<img align="left" alt="Axios" height="26px" src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white" />
+<img margin-right="3px;" align="left" alt="Figma" height="26px" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img margin-right="3px;" align="left" alt="VSCode" height="26px" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<img margin-right="3px;" align="left" alt="GitHub" height="26px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<img margin-right="3px;" align="left" alt="npm" height="26px" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+</details>
 
 <br /><br />
 
