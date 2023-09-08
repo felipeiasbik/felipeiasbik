@@ -17,8 +17,6 @@
 ### Ferramentas e Linguagens de Programação
 
 
-##### Ferramentas:
-
 
 <img margin-right="3px;" align="left" alt="Figma" height="26px" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <img margin-right="3px;" align="left" alt="VSCode" height="26px" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
@@ -30,8 +28,6 @@
 <br /><br />
 
 
-##### Linguagens de Programação:
-
 <img align="left" alt="HTML5" height="26px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="left" alt="CSS3" height="26px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img align="left" alt="JavaScript" height="26px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -39,8 +35,6 @@
 
 <br /><br />
 
-
-##### Frameworks:
 
 <img align="left" alt="React" height="26px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img align="left" alt="Node.js" height="26px"  src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"  />
@@ -51,9 +45,6 @@
 <br /><br />
 
 
-
-##### Desenvolvimento e Autenticação:
-
 <img align="left" alt="Prisma" height="26px" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
 <img align="left" alt="ts-node" height="26px" src="https://img.shields.io/badge/ts--node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white" />
 <img align="left" alt="JWT" height="26px" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
@@ -61,17 +52,12 @@
 
 <br /><br />
 
-
-##### Bancos de Dados:
-
 <img align="left" alt="MongoDB" height="26px" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img align="left" alt="Redis" height="26px" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
 <img align="left" alt="PostgreSQL" height="26px" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 <br /><br />
 
-
-##### Serviços de Nuvem e Documentação de API:
 
 <img align="left" alt="AWS" height="26px" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img align="left" alt="Swagger" height="26px" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"/>
