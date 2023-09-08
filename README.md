@@ -6,7 +6,7 @@
 - ✍ Você pode encontrar meu portifólio [aqui][repositorio];
 - 🌱 No momento estou estudando Docker e AWS.
 
-<div style="height: 1px; width: 100%; background-color: #ffffff;"></div>
+<hr style="height: 1px; width: 100%; background-color: #ffffff;"/>
 
 #### Fale comigo:
 [<img align="left" alt="Email" width="26px" src="https://seeklogo.com/images/M/mail-icon-logo-28FE0635D0-seeklogo.com.png" />][email]
