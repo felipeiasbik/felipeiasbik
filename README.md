@@ -25,6 +25,9 @@
 <img align="left" alt="NPM" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" />
 <img align="left" alt="Docker" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
 
+<br />
+
+Figma, VSCode, Git, Github, npm, Docker
 
 <br /><br />
 
