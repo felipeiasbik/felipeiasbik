@@ -7,11 +7,12 @@
 - 🌱 No momento estou estudando Docker e AWS.
 
 <hr/>
+
 #### Fale comigo:
 [<img align="left" alt="Email" width="26px" src="https://seeklogo.com/images/M/mail-icon-logo-28FE0635D0-seeklogo.com.png" />][email]
 [<img align="left" alt="LinkedIn" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />][linkedin]
-
 <hr/>
+
 <br /><br />
 
 
