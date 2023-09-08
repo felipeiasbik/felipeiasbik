@@ -27,8 +27,6 @@
 <img margin-right="3px;" align="left" alt="Docker" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
 
 
-<h6>Figma, VSCode, Git, Github, npm, Docker</h6>
-
 <br /><br />
 
 
