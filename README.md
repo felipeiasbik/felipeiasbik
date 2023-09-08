@@ -25,10 +25,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://www.svgrepo.com/download/35001/github.svg" />
 <img align="left" alt="NPM" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" />
 <img align="left" alt="Docker" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
-<img align="left" alt="Prisma" width="26px" src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" />
-<img align="left" alt="ts-node" width="26px" src="https://typestrong.org/ts-node/img/logo-icon.svg" />
-<img align="left" alt="JWT" width="26px" src="https://www.raycast.com/_next/image?url=https%3A%2F%2Ffiles.raycast.com%2F0qc319ft4tyefg8ai0kg65pjj4to&w=128&q=75" />
-<img align="left" alt="Axios" width="26px" src="https://user-images.githubusercontent.com/8939680/57233882-20344080-6fe5-11e9-9086-d20a955bed59.png" />
+
 
 <br /><br />
 
@@ -50,6 +47,17 @@
 <img align="left" alt="Express" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLA972a1NXwGHTIpgjxpRdu1DD5te1evggDgjNvM_FcbtGxaPYrHbV27RNzJSA_ZhrY28&usqp=CAU" />
 <img align="left" alt="Nest.js" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" />
 <img align="left" alt="Jest" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" />
+
+<br /><br />
+
+
+
+##### Desenvolvimento e Autenticação:
+
+<img align="left" alt="Prisma" width="26px" src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" />
+<img align="left" alt="ts-node" width="26px" src="https://typestrong.org/ts-node/img/logo-icon.svg" />
+<img align="left" alt="JWT" width="26px" src="https://www.raycast.com/_next/image?url=https%3A%2F%2Ffiles.raycast.com%2F0qc319ft4tyefg8ai0kg65pjj4to&w=128&q=75" />
+<img align="left" alt="Axios" width="26px" src="https://user-images.githubusercontent.com/8939680/57233882-20344080-6fe5-11e9-9086-d20a955bed59.png" />
 
 <br /><br />
 
