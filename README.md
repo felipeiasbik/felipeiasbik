@@ -27,7 +27,7 @@
 
 <br /><br />
 
-Figma, VSCode, Git, Github, npm, Docker
+<h6>Figma, VSCode, Git, Github, npm, Docker</h6>
 
 <br /><br />
 
