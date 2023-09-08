@@ -32,21 +32,21 @@
 
 ##### Linguagens de Programação:
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Typescript" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" />
+<img align="left" alt="HTML5" height="26px" src="	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="left" alt="CSS3" height="26px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img align="left" alt="JavaScript" height="26px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img align="left" alt="Typescript" height="26px" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 
 <br /><br />
 
 
 ##### Frameworks:
 
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Express" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLA972a1NXwGHTIpgjxpRdu1DD5te1evggDgjNvM_FcbtGxaPYrHbV27RNzJSA_ZhrY28&usqp=CAU" />
-<img align="left" alt="Nest.js" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" />
-<img align="left" alt="Jest" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" />
+<img align="left" alt="React" height="26px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img align="left" alt="Node.js" height="26px"  src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"  />
+<img align="left" alt="Express" height="26px"  src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"  />
+<img align="left" alt="Nest.js" height="26px"  src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"  />
+<img align="left" alt="Jest" height="26px"  src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"  />
 
 <br /><br />
 
@@ -54,27 +54,27 @@
 
 ##### Desenvolvimento e Autenticação:
 
-<img align="left" alt="Prisma" width="26px" src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" />
-<img align="left" alt="ts-node" width="26px" src="https://typestrong.org/ts-node/img/logo-icon.svg" />
-<img align="left" alt="JWT" width="26px" src="https://www.raycast.com/_next/image?url=https%3A%2F%2Ffiles.raycast.com%2F0qc319ft4tyefg8ai0kg65pjj4to&w=128&q=75" />
-<img align="left" alt="Axios" width="26px" src="https://user-images.githubusercontent.com/8939680/57233882-20344080-6fe5-11e9-9086-d20a955bed59.png" />
+<img align="left" alt="Prisma" height="26px" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+<img align="left" alt="ts-node" height="26px" src="https://img.shields.io/badge/ts--node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white" />
+<img align="left" alt="JWT" height="26px" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
+<img align="left" alt="Axios" height="26px" src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white" />
 
 <br /><br />
 
 
 ##### Bancos de Dados:
 
-<img align="left" alt="MongoDB" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="Redis" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" />
-<img align="left" alt="PostgreSQL" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="MongoDB" height="26px" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img align="left" alt="Redis" height="26px" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
+<img align="left" alt="PostgreSQL" height="26px" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 <br /><br />
 
 
 ##### Serviços de Nuvem e Documentação de API:
 
-<img align="left" alt="AWS" width="26px" src="https://www.svgviewer.dev/static-svgs/34378/aws.svg" />
-<img align="left" alt="Swagger" width="26px" src="https://camo.githubusercontent.com/96e43701d83561899724a89d71187445b7b8f4fe84518a3ea5bec8f85bd207bf/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f737761676765722e737667" />
+<img align="left" alt="AWS" height="26px" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img align="left" alt="Swagger" height="26px" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"/>
 
 <br /><br />
 
