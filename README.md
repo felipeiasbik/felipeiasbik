@@ -1,4 +1,4 @@
-###Olá, eu sou Felipe <img alt="Oi!"  width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true"/></h3>
+###Olá, eu sou Felipe <img alt="Oi!"  width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true"/>
 
 #### Sou **Desenvolvedor Web Full-Stack** e bacharel em Administração de Empresas!
 #### Encontrei meu caminho na programação 23 anos depois do primeiro contato, lá pelos meus 13, 14 anos.
