@@ -14,12 +14,12 @@ Aos 36 anos, dois meses após o nascimento de minha filha, decidi fazer uma tran
 - 🎮 Uma curiosidade: já desenvolvi joguinhos para Android antes de aprender a programar. 🤨
 
 
-### Fale comigo por aqui:
+### 💬 Fale comigo por aqui:
 [<img align="center" alt="Email" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?logo=microsoft-outlook&logoColor=white" />][email]
 [<img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />][linkedin]
 
 
-### Ferramentas e Linguagens de Programação que utilizo:
+### 🧑‍💻 Principais tecnologias que tenho utilizado:
 
 <div>
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" />
@@ -45,7 +45,7 @@ Aos 36 anos, dois meses após o nascimento de minha filha, decidi fazer uma tran
 <br>
 
 <details>
-  <summary>:zap: Outras ferramentas:</summary>
+  <summary>💻 Mais algumas:</summary>
   <br>
   <div>
     <img align="center" alt="npm" src="https://img.shields.io/badge/npm-CB3837?&logo=npm&logoColor=white" />
@@ -65,7 +65,7 @@ Aos 36 anos, dois meses após o nascimento de minha filha, decidi fazer uma tran
 
 
 <details>
-<summary>:zap: Linguagens mais usadas:</summary>
+<summary>⌨️ Linguagens mais usadas:</summary>
   <br>
   <div align="center">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipeiasbik&show_icons=true&locale=en&layout=compact&theme=dark" alt="felipeiasbik" />
