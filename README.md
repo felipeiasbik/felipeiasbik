@@ -5,8 +5,11 @@
 ## Olá, eu sou Felipe <img alt="Oi!"  width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true"/>
 
 Sou **Desenvolvedor Web Full-Stack** e bacharel em Administração de Empresas!  
+
 "Arranho" alguns instrumentos musicais, curto boardgames e adoro F1, NFL e esportes em geral (tanto assistir, quanto praticar).  
+
 Lá no início dos anos 2000, com 13 anos, brincava com  HTML e CSS. Mesmo sem programar mais a fundo, passei a vida ligado ao mundo da tecnologia e já tive sites variados em grandes portais, como Band e R7. Também acumulo 4 milhões de seguidores em redes sociais de alguns deles.  
+
 Aos 36 anos, dois meses após o nascimento de minha filha, decidi fazer uma transição de carreira **em busca do meu sonho**: aprender a programar e viver por trás dos códigos!
 
 <br>
