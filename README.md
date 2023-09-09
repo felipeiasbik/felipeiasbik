@@ -1,3 +1,6 @@
+[<img align="center" alt="Email" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?logo=microsoft-outlook&logoColor=white" />][email]
+[<img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />][linkedin]  
+
 ## Olá, eu sou Felipe <img alt="Oi!"  width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true"/>
 
 Sou **Desenvolvedor Web Full-Stack** e bacharel em Administração de Empresas!  
@@ -10,10 +13,6 @@ Aos 36 anos, dois meses após o nascimento de minha filha, decidi fazer uma tran
 - ✍ Você pode encontrar meu portifólio [aqui][repositorio];
 - 🌱 No momento estou aprendendo Docker e AWS;
 - 🎮 Uma curiosidade: já desenvolvi joguinhos para Android antes de aprender a programar. 🤨
-
-
-[<img align="center" alt="Email" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?logo=microsoft-outlook&logoColor=white" />][email]
-[<img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />][linkedin]
 
 
 ### 🧑‍💻 Principais tecnologias que tenho utilizado:
