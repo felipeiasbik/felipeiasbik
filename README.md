@@ -44,6 +44,7 @@ Dois meses após o nascimento de minha filha resolvi fazer uma transição de ca
   <br>
   <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?&logo=docker&logoColor=white" />
   <img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?&logo=amazonaws&logoColor=white" />
+  <img align="center" alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?&logo=Swagger&logoColor=white"/>
 </div>
 
 <br>
@@ -55,7 +56,6 @@ Dois meses após o nascimento de minha filha resolvi fazer uma transição de ca
     <img align="center" alt="npm" src="https://img.shields.io/badge/npm-CB3837?&logo=npm&logoColor=white" />
     <img align="center" alt="ts-node" src="https://img.shields.io/badge/ts--node-3178C6?&logo=ts-node&logoColor=white" />
     <img align="center" alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?&logo=Prisma&logoColor=white" />
-    <img align="center" alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?&logo=Swagger&logoColor=white"/>
     <img align="center" alt="JWT" src="https://img.shields.io/badge/JWT-000000?&logo=JSON%20web%20tokens&logoColor=white" />
     <img align="center" alt="Axios" src="https://img.shields.io/badge/axios-671ddf?&logo=axios&logoColor=white" />
     <br>
