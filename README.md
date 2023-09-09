@@ -16,7 +16,6 @@ Aos 36 anos, dois meses após o nascimento de minha filha, decidi fazer uma tran
 - 🌱 No momento estou aprendendo Docker e AWS;
 - 🎮 Uma curiosidade: já desenvolvi joguinhos para Android antes de aprender a programar. 🤨
 
-<br>
 
 ## 🧑‍💻 Principais tecnologias que tenho utilizado:
 ![HTML5](https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white)
