@@ -9,10 +9,14 @@ Sou **Desenvolvedor Web Full-Stack** e bacharel em Administração de Empresas!
 Lá no início dos anos 2000, com 13 anos, brincava com  HTML e CSS. Mesmo sem programar mais a fundo, passei a vida ligado ao mundo da tecnologia e já tive sites variados em grandes portais, como Band e R7. Também acumulo 4 milhões de seguidores em redes sociais de alguns deles.  
 Aos 36 anos, dois meses após o nascimento de minha filha, decidi fazer uma transição de carreira **em busca do meu sonho**: aprender a programar e viver por trás dos códigos!  
 
+<br>
+
 - 🔭 Atualmente trabalho com desenvolvimento web Full Stack;
 - ✍ Você pode encontrar meu portifólio [aqui][repositorio];
 - 🌱 No momento estou aprendendo Docker e AWS;
 - 🎮 Uma curiosidade: já desenvolvi joguinhos para Android antes de aprender a programar. 🤨  
+
+<br>
 
 ### 🧑‍💻 Principais tecnologias que tenho utilizado:
 ![HTML5](https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white)
@@ -39,28 +43,26 @@ Aos 36 anos, dois meses após o nascimento de minha filha, decidi fazer uma tran
   <summary>💻 Mais algumas:</summary>
   <br>
     <img alt="npm" align="center" src="https://img.shields.io/badge/npm-CB3837?&logo=npm&logoColor=white"/>
-    <img alt="" align="center" src=""/>
-    <img alt="" align="center" src=""/>
-    <img alt="" align="center" src=""/>
-    <img alt="" align="center" src=""/>
-    ![npm](https://img.shields.io/badge/npm-CB3837?&logo=npm&logoColor=white)
-    ![ts-node](https://img.shields.io/badge/ts--node-3178C6?&logo=ts-node&logoColor=white)
-    ![Styled-components](https://img.shields.io/badge/styled--components-DB7093?logo=styled-components&logoColor=white)
-    ![Prisma](https://img.shields.io/badge/Prisma-3982CE?&logo=Prisma&logoColor=white)
-    ![JWT](https://img.shields.io/badge/JWT-000000?&logo=JSON%20web%20tokens&logoColor=white)
-    ![Axios](https://img.shields.io/badge/axios-671ddf?&logo=axios&logoColor=white)
+    <img alt="ts-node" align="center" src="https://img.shields.io/badge/npm-CB3837?&logo=npm&logoColor=white"/>
+    <img alt="Styled-components" align="center" src="https://img.shields.io/badge/ts--node-3178C6?&logo=ts-node&logoColor=white"/>
+    <img alt="Prisma" align="center" src="https://img.shields.io/badge/styled--components-DB7093?logo=styled-components&logoColor=white"/>
+    <img alt="JWT" align="center" src="https://img.shields.io/badge/Prisma-3982CE?&logo=Prisma&logoColor=white"/>
+    <img alt="Axios" align="center" src="https://img.shields.io/badge/JWT-000000?&logo=JSON%20web%20tokens&logoColor=white"/>
+    <img alt="" align="center" src="https://img.shields.io/badge/axios-671ddf?&logo=axios&logoColor=white"/>
   <br>
-    ![Figma](https://img.shields.io/badge/Figma-F24E1E?&logo=figma&logoColor=white)
-    ![VSCode](https://img.shields.io/badge/VSCode-0078D4?&logo=visual%20studio%20code&logoColor=white)
-    ![Git](https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/GitHub-100000?&logo=github&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=white)
+    <img alt="Figma" align="center" src="https://img.shields.io/badge/Figma-F24E1E?&logo=figma&logoColor=white"/>
+    <img alt="VSCode" align="center" src="https://img.shields.io/badge/VSCode-0078D4?&logo=visual%20studio%20code&logoColor=white"/>
+    <img alt="Git" align="center" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"/>
+    <img alt="GitHub" align="center" src="https://img.shields.io/badge/GitHub-100000?&logo=github&logoColor=white"/>
+    <img alt="Linux" align="center" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=white"/>
+
+
 </details>
 
 <details>
 <summary>⌨️ Linguagens mais usadas:</summary>
   <br>
-    ![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=felipeiasbik&show_icons=true&locale=en&layout=compact&theme=dark)
+    <img alt="Felipe`s Stats" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipeiasbik&show_icons=true&locale=en&layout=compact&theme=dark"/>
 </details>
 
 [repositorio]: https://github.com/felipeiasbik?tab=repositories
