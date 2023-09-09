@@ -4,7 +4,7 @@
 <p>
   Sou <strong>Desenvolvedor Web Full-Stack</strong> e bacharel em Administração de Empresas!<br>
 "Arranho" alguns instrumentos musicais, curto boardgames e adoro F1, NFL e esportes em geral (tanto assistir, quanto praticar).<br>
-Lá no início dos anos 2000, com 13 anos, brincava com  HTML e CSS, e me limitei a isso por falta de escolas onde resido e cursos online na época. Ainda assim, passei a vida ligado ao mundo da tecnologia e já tive sites em portais como Band e R7. Também acumulo 4 milhões de seguidores em redes sociais de alguns deles.<br>
+Lá no início dos anos 2000, com 13 anos, brincava com  HTML e CSS, e me limitei a isso por falta de escolas onde resido e cursos online na época. Ainda assim, passei a vida ligado ao mundo da tecnologia e já tive sites em grandes portais, como Band e R7. Também acumulo 4 milhões de seguidores em redes sociais de alguns deles.<br>
 Aos 36 anos, dois meses após o nascimento de minha filha, decidi fazer uma transição de carreira <strong>em busca do meu sonho</strong>: aprender a programar e viver por trás dos códigos!
 </p>
 
