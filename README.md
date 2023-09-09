@@ -33,12 +33,16 @@ Aos 36 anos, dois meses após o nascimento de minha filha, decidi fazer uma tran
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?&logo=amazonaws&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?&logo=Swagger&logoColor=white)
-
-<br>
+  <br>
 
 <details>
   <summary>💻 Mais algumas:</summary>
   <br>
+    <img alt="npm" align="center" src="https://img.shields.io/badge/npm-CB3837?&logo=npm&logoColor=white"/>
+    <img alt="" align="center" src=""/>
+    <img alt="" align="center" src=""/>
+    <img alt="" align="center" src=""/>
+    <img alt="" align="center" src=""/>
     ![npm](https://img.shields.io/badge/npm-CB3837?&logo=npm&logoColor=white)
     ![ts-node](https://img.shields.io/badge/ts--node-3178C6?&logo=ts-node&logoColor=white)
     ![Styled-components](https://img.shields.io/badge/styled--components-DB7093?logo=styled-components&logoColor=white)
@@ -51,13 +55,12 @@ Aos 36 anos, dois meses após o nascimento de minha filha, decidi fazer uma tran
     ![Git](https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/GitHub-100000?&logo=github&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=white)
-    <img align="center" alt="npm" src="https://img.shields.io/badge/npm-CB3837?&logo=npm&logoColor=white" />
 </details>
 
 <details>
 <summary>⌨️ Linguagens mais usadas:</summary>
   <br>
-    ![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=felipeiasbik&show_icons=true&locale=en&layout=compact&theme=dark" alt="felipeiasbik)
+    ![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=felipeiasbik&show_icons=true&locale=en&layout=compact&theme=dark)
 </details>
 
 [repositorio]: https://github.com/felipeiasbik?tab=repositories
