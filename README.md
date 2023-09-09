@@ -8,8 +8,6 @@ Lá no início dos anos 2000, com 13 anos, brincava com  HTML e CSS. Mesmo sem p
 Aos 36 anos, dois meses após o nascimento de minha filha, decidi fazer uma transição de carreira <strong>em busca do meu sonho</strong>: aprender a programar e viver por trás dos códigos!
 </p>
 
-<br><br>
-
 - 🔭 Atualmente trabalho com desenvolvimento web Full Stack;
 - ✍ Você pode encontrar meu portifólio [aqui][repositorio];
 - 🌱 No momento estou aprendendo Docker e AWS;
