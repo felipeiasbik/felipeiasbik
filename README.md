@@ -43,7 +43,7 @@ Dois meses após o nascimento de minha filha resolvi fazer uma transição de ca
 <img align="left" alt="Redis" height="26px" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
 <img align="left" alt="PostgreSQL" height="26px" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />      
 
-
+<br><br>
 
 <details>
 <summary>:zap: Outras ferramentas:</summary>
