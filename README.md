@@ -17,11 +17,10 @@ Aos 36 anos, dois meses após o nascimento de minha filha, decidi fazer uma tran
 
 
 ### 🧑‍💻 Principais tecnologias que tenho utilizado:
-
-  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" />
-  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?&logo=css3&logoColor=white"/>
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?&logo=javascript&logoColor=F7DF1E" />
-  <img align="center" alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?&logo=typescript&logoColor=white" />
+![HTML5](https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white)
+!{CSS3}(https://img.shields.io/badge/CSS3-1572B6?&logo=css3&logoColor=white)
+!{JavaScript}(https://img.shields.io/badge/JavaScript-323330?&logo=javascript&logoColor=F7DF1E)
+!{Typescript}(https://img.shields.io/badge/TypeScript-007ACC?&logo=typescript&logoColor=white)
   <br>
   <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?&logo=react&logoColor=61DAFB" />
   <img align="center" alt="Node.js"  src="https://img.shields.io/badge/Node%20js-339933?&logo=nodedotjs&logoColor=white"  />
