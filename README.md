@@ -4,8 +4,8 @@
 <p>
   Sou <strong>Desenvolvedor Web Full-Stack</strong> e bacharel em Administração de Empresas!<br>
 "Arranho" alguns instrumentos musicais, curto boardgames e adoro F1, NFL e esportes em geral (tanto assistir, quanto praticar).<br>
-Desde os meus 13 anos quis ser programador, mas me limitei ao HTML e CSS por falta de escolas onde resido e cursos online na época (~ano 2000). Apesar disso, passei a vida ligado ao mundo da tecnologia e já tive sites em portais como Band e R7. Também acumulo 4 milhões de seguidores em redes sociais de alguns deles.<br>
-Aos 36 anos, dois meses após o nascimento de minha filha, decidi fazer uma transição de carreira <strong>em busca do meu sonho</strong>: aprender a programar e viver para resolver problemas!
+Lá no início dos anos 2000, com 13 anos, brincava com  HTML e CSS, e me limitei a isso por falta de escolas onde resido e cursos online na época. Ainda assim, passei a vida ligado ao mundo da tecnologia e já tive sites em portais como Band e R7. Também acumulo 4 milhões de seguidores em redes sociais de alguns deles.<br>
+Aos 36 anos, dois meses após o nascimento de minha filha, decidi fazer uma transição de carreira <strong>em busca do meu sonho</strong>: aprender a programar e viver por trás dos códigos!
 </p>
 
 <br>
@@ -59,16 +59,18 @@ Aos 36 anos, dois meses após o nascimento de minha filha, decidi fazer uma tran
   <div>
     Desenvolvimento: 
     <img align="center" alt="npm" src="https://img.shields.io/badge/npm-CB3837?&logo=npm&logoColor=white" />
+    <img align="center" alt="Styled-components" src="https://img.shields.io/badge/styled--components-DB7093?logo=styled-components&logoColor=white" />
     <img align="center" alt="ts-node" src="https://img.shields.io/badge/ts--node-3178C6?&logo=ts-node&logoColor=white" />
     <img align="center" alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?&logo=Prisma&logoColor=white" />
     <img align="center" alt="JWT" src="https://img.shields.io/badge/JWT-000000?&logo=JSON%20web%20tokens&logoColor=white" />
     <img align="center" alt="Axios" src="https://img.shields.io/badge/axios-671ddf?&logo=axios&logoColor=white" />
     <br>
-    Outras ferramentas: 
+    Outras: 
     <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?&logo=figma&logoColor=white" />
     <img align="center" alt="VSCode" src="https://img.shields.io/badge/VSCode-0078D4?&logo=visual%20studio%20code&logoColor=white" />
-    <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?&logo=github&logoColor=white" />
     <img align="center" alt="git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
+    <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?&logo=github&logoColor=white" />
+    <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=white">
     <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=white">
   <div></div>
 </details>
