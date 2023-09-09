@@ -45,7 +45,7 @@ Aos 36 anos, dois meses após o nascimento de minha filha, decidi fazer uma tran
   <img align="center" alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?&logo=redis&logoColor=white" />
   <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?&logo=postgresql&logoColor=white" />
   <br>
-  Outras ferramentas: 
+  Infraestrutura e documentação: 
   <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?&logo=docker&logoColor=white" />
   <img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?&logo=amazonaws&logoColor=white" />
   <img align="center" alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?&logo=Swagger&logoColor=white"/>
