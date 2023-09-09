@@ -59,6 +59,7 @@
 <img margin-right="3px;" align="left" alt="VSCode" height="26px" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img margin-right="3px;" align="left" alt="GitHub" height="26px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 <img margin-right="3px;" align="left" alt="npm" height="26px" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+<br />
 </details>
 
 <br />
