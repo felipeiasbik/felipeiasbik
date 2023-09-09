@@ -69,7 +69,7 @@ Aos 36 anos, dois meses após o nascimento de minha filha, decidi fazer uma tran
   <div></div>
 </details>
 
-<br>
+
 <details>
 <summary>:zap: Linguagens mais usadas:</summary>
   <br>
