@@ -1,7 +1,7 @@
-<h3>Olá, eu sou Felipe <img alt="Oi!"  width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true"/>
-</h3>
+<h1>Olá, eu sou Felipe <img alt="Oi!"  width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true"/>
+</h1>
 
-<p style="font-size: 18px;">
+<p>
   Sou <strong>Desenvolvedor Web Full-Stack</strong> e bacharel em Administração de Empresas!<br>
 "Arranho" alguns instrumentos musicais, curto boardgames e adoro F1, NFL e esportes em geral (tanto assistir, quanto praticar)!<br>
 Desde os meus 13 anos quis ser programador, mas me limitei ao HTML e CSS por falta de escolas onde resido e cursos online na época (~ano 2000). Apesar disso, passei a vida ligado ao mundo da tecnologia e já tive sites em portais como Band e R7. Também acumulo 4 milhões de seguidores em redes sociais de alguns deles.<br>
@@ -26,7 +26,7 @@ Dois meses após o nascimento de minha filha resolvi fazer uma transição de ca
 
 ### Ferramentas e Linguagens de Programação
 
-<span>
+<div>
   <img align="left" alt="HTML5" height="26px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="left" alt="CSS3" height="26px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img align="left" alt="JavaScript" height="26px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -44,14 +44,14 @@ Dois meses após o nascimento de minha filha resolvi fazer uma transição de ca
   <br><br>
   <img align="left" alt="Docker" height="26px" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
   <img align="left" alt="AWS" height="26px" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</span>
+</div>
 
 <br><br>
 
 <details>
   <summary>:zap: Outras ferramentas:</summary>
   <br>
-  <span>
+  <div>
     <img align="left" alt="npm" height="26px" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
     <img align="left" alt="ts-node" height="26px" src="https://img.shields.io/badge/ts--node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white" />
     <img align="left" alt="Prisma" height="26px" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
@@ -63,7 +63,7 @@ Dois meses após o nascimento de minha filha resolvi fazer uma transição de ca
     <img align="left" alt="Figma" height="26px" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
     <img align="left" alt="VSCode" height="26px" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
     <img align="left" alt="GitHub" height="26px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <span>
+  <div>
   <br><br>
 </details>
 
