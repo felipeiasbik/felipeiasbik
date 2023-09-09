@@ -26,7 +26,7 @@ Dois meses após o nascimento de minha filha resolvi fazer uma transição de ca
 
 ##### Linguagens de Programação:
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
   
 <img align="left" alt="HTML5" height="26px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="left" alt="CSS3" height="26px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
