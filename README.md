@@ -10,7 +10,6 @@ Dois meses após o nascimento de minha filha resolvi fazer uma transição de ca
 
 <br>
 
-
 - 🔭 Atualmente trabalho com desenvolvimento web Full Stack;
 - ✍ Você pode encontrar meu portifólio [aqui][repositorio];
 - 🌱 No momento estou aprendendo Docker e AWS;
@@ -25,10 +24,7 @@ Dois meses após o nascimento de minha filha resolvi fazer uma transição de ca
 
 ***
 
-
 ### Ferramentas e Linguagens de Programação
-
-##### Linguagens de Programação:
 
 <span>
   <img align="left" alt="HTML5" height="26px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
