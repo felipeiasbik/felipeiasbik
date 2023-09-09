@@ -16,10 +16,12 @@ Aos 36 anos, dois meses após o nascimento de minha filha, decidi fazer uma tran
 - 🎮 Uma curiosidade: desenvolvi alguns joguinhos para Android antes de aprender a programar. 🤨
 
 ***
-
-### Fale comigo por aqui:
+<pre>
+  ### Fale comigo por aqui:
   [<img align="center" alt="Email" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?logo=microsoft-outlook&logoColor=white" />][email]
   [<img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />][linkedin]
+</pre>
+
 <br>
 
 ***
