@@ -48,7 +48,6 @@ Dois meses após o nascimento de minha filha resolvi fazer uma transição de ca
   <br><br>
   <img align="left" alt="Docker" height="26px" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
   <img align="left" alt="AWS" height="26px" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <br>
 </span>
 
 <br><br>
