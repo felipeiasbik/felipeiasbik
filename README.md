@@ -18,7 +18,6 @@ Aos 36 anos, dois meses após o nascimento de minha filha, decidi fazer uma tran
 
 ### 🧑‍💻 Principais tecnologias que tenho utilizado:
 
-<div>
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" />
   <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?&logo=css3&logoColor=white"/>
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?&logo=javascript&logoColor=F7DF1E" />
@@ -37,14 +36,12 @@ Aos 36 anos, dois meses após o nascimento de minha filha, decidi fazer uma tran
   <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?&logo=docker&logoColor=white" />
   <img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?&logo=amazonaws&logoColor=white" />
   <img align="center" alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?&logo=Swagger&logoColor=white"/>
-</div>
 
 <br>
 
 <details>
   <summary>💻 Mais algumas:</summary>
   <br>
-  <div>
     <img align="center" alt="npm" src="https://img.shields.io/badge/npm-CB3837?&logo=npm&logoColor=white" />
     <img align="center" alt="Styled-components" src="https://img.shields.io/badge/styled--components-DB7093?logo=styled-components&logoColor=white" />
     <img align="center" alt="ts-node" src="https://img.shields.io/badge/ts--node-3178C6?&logo=ts-node&logoColor=white" />
@@ -57,16 +54,13 @@ Aos 36 anos, dois meses após o nascimento de minha filha, decidi fazer uma tran
     <img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
     <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?&logo=github&logoColor=white" />
     <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=white">
-  <div></div>
 </details>
 
 
 <details>
 <summary>⌨️ Linguagens mais usadas:</summary>
   <br>
-  <div align="center">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipeiasbik&show_icons=true&locale=en&layout=compact&theme=dark" alt="felipeiasbik" />
-  </div>
 </details>
 
 
