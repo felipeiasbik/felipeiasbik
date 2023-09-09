@@ -44,12 +44,11 @@ Aos 36 anos, dois meses após o nascimento de minha filha, decidi fazer uma tran
   <summary>💻 Mais algumas:</summary>
   <br>
     <img alt="npm" align="center" src="https://img.shields.io/badge/npm-CB3837?&logo=npm&logoColor=white"/>
-    <img alt="ts-node" align="center" src="https://img.shields.io/badge/npm-CB3837?&logo=npm&logoColor=white"/>
-    <img alt="Styled-components" align="center" src="https://img.shields.io/badge/ts--node-3178C6?&logo=ts-node&logoColor=white"/>
-    <img alt="Prisma" align="center" src="https://img.shields.io/badge/styled--components-DB7093?logo=styled-components&logoColor=white"/>
-    <img alt="JWT" align="center" src="https://img.shields.io/badge/Prisma-3982CE?&logo=Prisma&logoColor=white"/>
-    <img alt="Axios" align="center" src="https://img.shields.io/badge/JWT-000000?&logo=JSON%20web%20tokens&logoColor=white"/>
-    <img alt="" align="center" src="https://img.shields.io/badge/axios-671ddf?&logo=axios&logoColor=white"/>
+    <img alt="ts-node" align="center" src="https://img.shields.io/badge/ts--node-3178C6?&logo=ts-node&logoColor=white"/>
+    <img alt="Styled-components" align="center" src="https://img.shields.io/badge/styled--components-DB7093?logo=styled-components&logoColor=white"/>
+    <img alt="Prisma" align="center" src="https://img.shields.io/badge/Prisma-3982CE?&logo=Prisma&logoColor=white"/>
+    <img alt="JWT" align="center" src="https://img.shields.io/badge/JWT-000000?&logo=JSON%20web%20tokens&logoColor=white"/>
+    <img alt="Axios" align="center" src="https://img.shields.io/badge/axios-671ddf?&logo=axios&logoColor=white"/>
   <br>
     <img alt="Figma" align="center" src="https://img.shields.io/badge/Figma-F24E1E?&logo=figma&logoColor=white"/>
     <img alt="VSCode" align="center" src="https://img.shields.io/badge/VSCode-0078D4?&logo=visual%20studio%20code&logoColor=white"/>
