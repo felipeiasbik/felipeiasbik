@@ -1,9 +1,7 @@
 <h3>Olá, eu sou Felipe <img alt="Oi!"  width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true"/>
 </h3>
 
-#### Sou **Desenvolvedor Web Full-Stack** e bacharel em Administração de Empresas!
-#### Encontrei meu caminho na programação 23 anos depois do primeiro contato, lá pelos meus 13, 14 anos.
-#### Fiz uma transição de carreira em busca do meu sonho em aprender a programar e resolver problemas diariamente!
+##### Sou **Desenvolvedor Web Full-Stack** e bacharel em Administração de Empresas! Encontrei meu caminho na programação 23 anos depois do primeiro contato, lá pelos meus 13, 14 anos. Fiz uma transição de carreira em busca do meu sonho em aprender a programar e resolver problemas diariamente!
 
 - 🔭 Atualmente trabalho com desenvolvimento web Full Stack;
 - ✍ Você pode encontrar meu portifólio [aqui][repositorio];
