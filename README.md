@@ -68,10 +68,9 @@ Aos 36 anos, dois meses após o nascimento de minha filha, decidi fazer uma tran
     Outras: 
     <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?&logo=figma&logoColor=white" />
     <img align="center" alt="VSCode" src="https://img.shields.io/badge/VSCode-0078D4?&logo=visual%20studio%20code&logoColor=white" />
-    <img align="center" alt="git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
+    <img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
     <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?&logo=github&logoColor=white" />
-    <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=white">
-    <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=white">
+    <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=white">
   <div></div>
 </details>
 
