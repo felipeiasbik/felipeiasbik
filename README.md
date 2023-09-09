@@ -1,14 +1,13 @@
 <h3>Olá, eu sou Felipe <img alt="Oi!"  width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true"/>
 </h3>
 
-##### Sou **Desenvolvedor Web Full-Stack** e bacharel em Administração de Empresas! Encontrei meu caminho na programação 23 anos depois do primeiro contato, lá pelos meus 13, 14 anos. Fiz uma transição de carreira em busca do meu sonho em aprender a programar e resolver problemas diariamente!  
+###### Sou **Desenvolvedor Web Full-Stack** e bacharel em Administração de Empresas! Toco alguns instrumentos musicais (ou arranho), adora F1 e curto boardgames e esportes em geral! Desde os meus 13 anos quis ser programador, mas me limitei ao HTML e CSS por ainda não existirem cursos online e faltar escolas na minha cidade (~ano 2000). Apesar disso, passei a vida ligado ao mundo da tecnologia, e já tive sites em grandes portais brasileiros como Band e R7. Também acumulo 4 milhões de seguidores em redes sociais de alguns deles. Fiz uma transição de carreira **em busca do meu sonho**: aprender a programar e viver para resolver problemas!
 
 
 - 🔭 Atualmente trabalho com desenvolvimento web Full Stack;
 - ✍ Você pode encontrar meu portifólio [aqui][repositorio];
 - 🌱 No momento estou aprendendo Docker e AWS;
-- 🎮 Desenvolvi alguns joguinhos para Android antes de aprender a programar;
-- ⚡ Curiosidade: também antes de programar tive sites nos portais Band e R7.
+- 🎮 Curiosidade: Desenvolvi alguns joguinhos para Android antes de aprender a programar..
 
 ***
 
