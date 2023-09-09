@@ -16,17 +16,21 @@
 
 ### Ferramentas e Linguagens de Programação
 
-
+##### Linguagens de Programação:
 <img align="left" alt="HTML5" height="26px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="left" alt="CSS3" height="26px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img align="left" alt="JavaScript" height="26px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img align="left" alt="Typescript" height="26px" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+
+<br /><br />
+
+##### Ferramentas:
 <img margin-right="3px;" align="left" alt="Docker" height="26px" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 <img align="left" alt="AWS" height="26px" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 
 <br /><br />
 
-
+##### Frameworks:
 <img align="left" alt="React" height="26px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img align="left" alt="Node.js" height="26px"  src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"  />
 <img align="left" alt="Express" height="26px"  src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"  />
@@ -36,6 +40,7 @@
 
 <br /><br />
 
+##### Bancos de Dados:
 <img align="left" alt="MongoDB" height="26px" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img align="left" alt="Redis" height="26px" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
 <img align="left" alt="PostgreSQL" height="26px" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
