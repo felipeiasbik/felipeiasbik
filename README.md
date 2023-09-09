@@ -1,5 +1,4 @@
-<h1>Olá, eu sou Felipe <img alt="Oi!"  width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true"/>
-</h1>
+##Olá, eu sou Felipe <img alt="Oi!"  width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true"/>
 
 <p>
   Sou <strong>Desenvolvedor Web Full-Stack</strong> e bacharel em Administração de Empresas!<br>
@@ -14,7 +13,6 @@ Aos 36 anos, dois meses após o nascimento de minha filha, decidi fazer uma tran
 - 🎮 Uma curiosidade: já desenvolvi joguinhos para Android antes de aprender a programar. 🤨
 
 
-### 💬 Fale comigo por aqui:
 [<img align="center" alt="Email" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?logo=microsoft-outlook&logoColor=white" />][email]
 [<img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />][linkedin]
 
