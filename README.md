@@ -24,7 +24,7 @@ Aos 36 anos, dois meses após o nascimento de minha filha, decidi fazer uma tran
 
 ***
 
-### Ferramentas e Linguagens de Programação
+### Ferramentas e Linguagens de Programação que utilizo:
 
 <div>
   Linguagens: 
