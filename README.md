@@ -19,7 +19,7 @@ Dois meses após o nascimento de minha filha resolvi fazer uma transição de ca
 
 ### Fale comigo por aqui:
   [<img align="center" alt="Email" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?logo=microsoft-outlook&logoColor=white" />][email]
-  [<img align="center" alt="LinkedIn" width="26px" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />][linkedin]
+  [<img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />][linkedin]
 <br>
 
 ***
