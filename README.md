@@ -45,7 +45,8 @@ Dois meses após o nascimento de minha filha resolvi fazer uma transição de ca
 <img align="left" alt="PostgreSQL" height="26px" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <br>
 </span>
-<br><br><br>
+
+<br><br>
 
 <details>
 <summary>:zap: Outras ferramentas:</summary>
@@ -57,7 +58,6 @@ Dois meses após o nascimento de minha filha resolvi fazer uma transição de ca
 <img align="left" alt="JWT" height="26px" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
 <img align="left" alt="Axios" height="26px" src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white" />
 
-
 <br><br>
 
 <img align="left" alt="Figma" height="26px" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
@@ -68,10 +68,12 @@ Dois meses após o nascimento de minha filha resolvi fazer uma transição de ca
 </details>
 
 <br>
-
+<details>
+<summary>:zap: Linguagens mais usadas:</summary>
 <div align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipeiasbik&show_icons=true&locale=en&layout=compact&theme=dark" alt="felipeiasbik" />
 </div>
+</details>
 
 
 
