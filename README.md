@@ -65,7 +65,7 @@ Dois meses após o nascimento de minha filha resolvi fazer uma transição de ca
     <img align="center" alt="git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
     <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=white">
   <div>
-  <br><br>
+  <br>
 </details>
 
 <br>
