@@ -18,8 +18,8 @@ Dois meses após o nascimento de minha filha resolvi fazer uma transição de ca
 ***
 
 ### Fale comigo por aqui:
-  [<img align="center" alt="Email" width="26px" src="https://seeklogo.com/images/M/mail-icon-logo-28FE0635D0-seeklogo.com.png" />][email]
-  [<img align="center" alt="LinkedIn" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />][linkedin]
+  [<img align="center" alt="Email" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?logo=microsoft-outlook&logoColor=white" />][email]
+  [<img align="center" alt="LinkedIn" width="26px" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />][linkedin]
 <br>
 
 ***
@@ -45,7 +45,7 @@ Dois meses após o nascimento de minha filha resolvi fazer uma transição de ca
   <img align="center" alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?&logo=redis&logoColor=white" />
   <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?&logo=postgresql&logoColor=white" />
   <br>
-  Outras ferramentas: &#32;&#32;
+  Outras ferramentas: 
   <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?&logo=docker&logoColor=white" />
   <img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?&logo=amazonaws&logoColor=white" />
   <img align="center" alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?&logo=Swagger&logoColor=white"/>
@@ -57,14 +57,14 @@ Dois meses após o nascimento de minha filha resolvi fazer uma transição de ca
   <summary>:zap: Outras ferramentas:</summary>
   <br>
   <div>
-    Ferramentas de desenvolvimento: &#32;&#32;
+    Desenvolvimento: 
     <img align="center" alt="npm" src="https://img.shields.io/badge/npm-CB3837?&logo=npm&logoColor=white" />
     <img align="center" alt="ts-node" src="https://img.shields.io/badge/ts--node-3178C6?&logo=ts-node&logoColor=white" />
     <img align="center" alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?&logo=Prisma&logoColor=white" />
     <img align="center" alt="JWT" src="https://img.shields.io/badge/JWT-000000?&logo=JSON%20web%20tokens&logoColor=white" />
     <img align="center" alt="Axios" src="https://img.shields.io/badge/axios-671ddf?&logo=axios&logoColor=white" />
     <br>
-    Outras ferramentas: &#32;&#32;
+    Outras ferramentas: 
     <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?&logo=figma&logoColor=white" />
     <img align="center" alt="VSCode" src="https://img.shields.io/badge/VSCode-0078D4?&logo=visual%20studio%20code&logoColor=white" />
     <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?&logo=github&logoColor=white" />
