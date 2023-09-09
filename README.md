@@ -29,6 +29,7 @@ Aos 36 anos, dois meses após o nascimento de minha filha, decidi fazer uma tran
 ![React](https://img.shields.io/badge/React-20232A?&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node%20js-339933?&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express%20js-000000?&logo=express&logoColor=white)
+
 ![Nest.js](https://img.shields.io/badge/nestjs-E0234E?&logo=nestjs&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?&logo=jest&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?&logo=mongodb&logoColor=white)
