@@ -11,7 +11,7 @@ Aos 36 anos, dois meses após o nascimento de minha filha, decidi fazer uma tran
 - 🔭 Atualmente trabalho com desenvolvimento web Full Stack;
 - ✍ Você pode encontrar meu portifólio [aqui][repositorio];
 - 🌱 No momento estou aprendendo Docker e AWS;
-- 🎮 Uma curiosidade: desenvolvi alguns joguinhos para Android antes de aprender a programar. 🤨
+- 🎮 Uma curiosidade: já desenvolvi joguinhos para Android antes de aprender a programar. 🤨
 
 
 ### Fale comigo por aqui:
