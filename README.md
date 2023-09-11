@@ -1,6 +1,7 @@
-[<img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />][linkedin]
 [<img align="center" alt="Email" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?logo=microsoft-outlook&logoColor=white" />][email]
+[<img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />][linkedin]
 [<img align="center" alt ="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />][instagram]
+[<img align="center" alt ="Instagram" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />][x]
 
 
 ## Olá, eu sou Felipe <img alt="Oi!"  width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true"/>
@@ -56,6 +57,8 @@ Aos 36 anos, dois meses após o nascimento de minha filha, decidi fazer uma tran
     <img alt="Git" align="center" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"/>
     <img alt="GitHub" align="center" src="https://img.shields.io/badge/GitHub-100000?&logo=github&logoColor=white"/>
     <img alt="Linux" align="center" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=white"/>
+    <img alt="Trello" align="center" src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white"/>
+    <img alt="Notion" align="center" src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white"/>
 
 
 </details>
@@ -70,3 +73,4 @@ Aos 36 anos, dois meses após o nascimento de minha filha, decidi fazer uma tran
 [email]: mailto:felipeiasbik@hotmail.com
 [linkedin]: https://www.linkedin.com/in/felipeiasbik/
 [instagram]: https://www.instagram.com/felipeiasbik/
+[x]: https://twitter.com/felipeiasbik
