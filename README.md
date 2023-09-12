@@ -1,7 +1,7 @@
-[<img align="center" alt="Email" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?logo=microsoft-outlook&logoColor=white" />][email]
-[<img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />][linkedin]
-[<img align="center" alt ="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />][instagram]
-[<img align="center" alt ="Instagram" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />][x]
+[<img align="center" height="20px" alt="Email" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?logo=microsoft-outlook&logoColor=white" />][email]
+[<img align="center" height="20px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />][linkedin]
+[<img align="center" height="20px" alt ="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />][instagram]
+[<img align="center" height="20px" alt ="Instagram" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />][x]
 
 
 ## Olá, eu sou Felipe <img alt="Oi!"  width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true"/>
